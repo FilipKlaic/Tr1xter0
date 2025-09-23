@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tr1xter0</h1>
-<h3 align="center">Digital craftsman (Systemdeveloper/Musician)</h3>
+* Tr1xter0
+**`Digital craftsman (Systemdeveloper/Musician)`**
 
-- 🌱 I’m currently learning **.NET Framework, Cybersecurity**
+I'm a 20 year old college student studying Systemdevelopment at Campus Nyköping in Sweden. All my projects are built from the ground up, from planning all the way to designing and solving real-life problems with code. Other than writing code I also ride motorcycles and play guitar!
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tr1xter0/](https://github.com/Tr1xter0/)
+I’m currently learning **.NET Framework, Cybersecurity**
 
-- ⚡ Fun fact **I ride motorcycles and I can play both guitar and drums**
+All of my projects are available at [https://github.com/Tr1xter0/](https://github.com/Tr1xter0/)
+
+Fun fact: I also play drums and can assemble computers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
