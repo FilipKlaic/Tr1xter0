@@ -1,4 +1,4 @@
-* Tr1xter0
+<h1> Tr1xter0 </h1>
 **`Digital craftsman (Systemdeveloper/Musician)`**
 
 I'm a 20 year old college student studying Systemdevelopment at Campus Nyköping in Sweden. All my projects are built from the ground up, from planning all the way to designing and solving real-life problems with code. Other than writing code I also ride motorcycles and play guitar!
