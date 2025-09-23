@@ -47,6 +47,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tr1xter0&show_icons=true&locale=en" alt="tr1xter0" />
 </p>
-
-
-Gemini kan göra misstag, inklusive om personer, så dubbelkolla svaren. Din integritet och GeminiÖppnas i ett nytt fönster
