@@ -1,4 +1,4 @@
-<h1>Tr1xter0 / Filip 🧑‍💻</h1>
+<h1> Filip 🧑‍💻</h1>
 <h2>Digital Craftsman (System Developer/Musician)</h2>
 
 <p>I'm a 20-year-old college student at Campus Nyköping in Sweden, where I'm studying System Development. I love taking on projects from the ground up, from initial planning to designing and using code to solve real-world problems. When I'm not coding, you can find me riding my motorcycle or playing guitar! 🎸</p>
